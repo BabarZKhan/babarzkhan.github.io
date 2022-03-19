@@ -106,7 +106,7 @@ author:
   orcid            : "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
-  stackoverflow    : &stackoverflow https://stackoverflow.com/users/10152674/bzkn
+  stackoverflow    : &stackoverflow
   steam            :
   tumblr           :
   twitter          : "replacethistwitterhandle"
