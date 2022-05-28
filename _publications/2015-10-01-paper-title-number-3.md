@@ -11,6 +11,6 @@ citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 
 This paper is about implementing High-Level Synthesis (HLS) in C,C++ and C#. High-level synthesis (HLS) is an automated design process that brings a significant reduction in design cycles by pushing the design to higher levels of abstraction. What is more, HLS has received increasing attention because of its ability to handle machine learning matrices and iterative design efforts. Specifically, the low precision arithmetic and number systems have become the standard for performing deep learning inference. Recently it was shown that the data type-agnostic (DTA) programming methodology based on HLS empowers
 Xilinx Vivado HLS compiler to synthesize hardware architectures for a plethora of data types without modifications of a C++ source code. Especially, the very same code can be used for real-valued and complex-valued data paths by utilizing the C++ class and template library. This paper presents a novel implementation of the aforementioned methodology in additional languages namely C and C# to evaluate the improved performance for three different arithmetic formats namely floating-point, fixed-point and arbitrary-precision integer.
 
-[Download paper here](http://academicpages.github.io/files/FDL-2021.pdf)
+[Download paper here](http://academicpages.github.io/files/paper3.pdf)
 
 Recommended citation: Your Name, You. (2015). "Paper Title Number 3." <i>Journal 1</i>. 1(3).
