@@ -12,5 +12,3 @@ This paper is about implementing High-Level Synthesis (HLS) in C,C++ and C#. Hig
 Xilinx Vivado HLS compiler to synthesize hardware architectures for a plethora of data types without modifications of a C++ source code. Especially, the very same code can be used for real-valued and complex-valued data paths by utilizing the C++ class and template library. This paper presents a novel implementation of the aforementioned methodology in additional languages namely C and C# to evaluate the improved performance for three different arithmetic formats namely floating-point, fixed-point and arbitrary-precision integer.
 
 [Download paper here](https://babarzkhan.github.io/files/paper3.pdf)
-
-Recommended citation: Your Name, You. (2015). "Paper Title Number 3." <i>Journal 1</i>. 1(3).
