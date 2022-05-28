@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Publications"
+title: "Research Papers,Reports,Drafts,Thesis"
 permalink: /publications/
 author_profile: true
 ---
