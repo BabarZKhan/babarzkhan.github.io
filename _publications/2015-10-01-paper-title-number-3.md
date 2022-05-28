@@ -1,12 +1,12 @@
 ---
-title: "Using C, C++ and C# for a wider consensus in High-Level Synthesis Compilers"
+title: "Using C, C++ and C# For A Wider Consensus in High-Level Synthesis Compilers"
 collection: publications
 permalink: /publication/2015-10-01-paper-title-number-3
 excerpt: 'This paper was included in the FDL 2021 proceedings as PhD/WiP'
 date: 8-10 September 2021, Antibes (France)
-venue: 'Forum on specification & Design Languages 2021'
+venue: 'Forum on specification & Design Languages'
 paperurl: 'https://fdl-conference.com/prevconf.html#prev'
-citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
+#citation: 'khan, babar. (2021). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
 ---
 This paper is about implementing High-Level Synthesis (HLS) in C,C++ and C#. High-level synthesis (HLS) is an automated design process that brings a significant reduction in design cycles by pushing the design to higher levels of abstraction. What is more, HLS has received increasing attention because of its ability to handle machine learning matrices and iterative design efforts. Specifically, the low precision arithmetic and number systems have become the standard for performing deep learning inference. Recently it was shown that the data type-agnostic (DTA) programming methodology based on HLS empowers
 Xilinx Vivado HLS compiler to synthesize hardware architectures for a plethora of data types without modifications of a C++ source code. Especially, the very same code can be used for real-valued and complex-valued data paths by utilizing the C++ class and template library. This paper presents a novel implementation of the aforementioned methodology in additional languages namely C and C# to evaluate the improved performance for three different arithmetic formats namely floating-point, fixed-point and arbitrary-precision integer.
