@@ -6,8 +6,8 @@ main:
   - title: "Talks"
     url: /talks/    
         
-  - title: "Echo Chamber"
-    url: /blogs/
+  - title: "Blog posts a.k.a Echo Chamber"
+    url: /year-archive/
     
   - title: "Contact"
     url: /contact
