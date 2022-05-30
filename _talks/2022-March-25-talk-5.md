@@ -2,7 +2,7 @@
 title: "FPGA 101 for Embedded C++ Developers"
 collection: talks
 type: "Long session of 36 minutes"
-permalink: https://youtu.be/d4n5J4ann6k
+#permalink: https://youtu.be/d4n5J4ann6k
 venue: "This talk is a part of the embedded systems conference emBO++ year 2022"
 date: "25-March-2022"
 location: "Bochum,Germany"
