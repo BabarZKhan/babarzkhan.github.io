@@ -3,6 +3,9 @@ main:
   - title: "Publications"
     url: /publications/
 
+  - title: "Research Statmenet"
+    url: /contact
+
   - title: "Talks"
     url: /talks/    
         
@@ -11,3 +14,4 @@ main:
     
   - title: "Contact"
     url: /contact
+    
