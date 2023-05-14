@@ -1,8 +1,8 @@
 ---
-title: "Statement"
+title: "Research Statement"
 excerpt: ""
 sitemap: true
-permalink: /statement/
+permalink: /research statement/
 ---
 
 
