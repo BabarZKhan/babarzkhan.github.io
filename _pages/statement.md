@@ -9,7 +9,7 @@ As a PhD candidate in computer science, I consider following resources extremely
 
 - [Hamming, "You and Your Research" (June 6, 1995)](https://www.youtube.com/watch?v=a1zDuOPkMSw&ab_channel=securitylectures)
 - [Graduate school: keys to success](https://www.youtube.com/watch?v=fqPSnjewkuA)
-- [How to Have a Bad Career | David Patterson | Talks at Google](https://www.youtube.com/watch?v=Rn1w4MRHIhc&ab_channel=TalksatGoogle)
+- [How to Have a Bad Career a tlakb David Patterson at Google](https://www.youtube.com/watch?v=Rn1w4MRHIhc&ab_channel=TalksatGoogle)
 - [Advice](https://pages.cs.wisc.edu/~markhill/includes/advice.html)
 - [General resources for graduate students](https://www3.cs.stonybrook.edu/~ezk/grad-res/index.html)
 - [Advice for researcher and students](https://homes.cs.washington.edu/~mernst/advice/)
