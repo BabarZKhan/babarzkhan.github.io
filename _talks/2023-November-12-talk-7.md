@@ -21,5 +21,5 @@ throughput and demonstrates up to 2.3 times the I/O operations per second compar
 to conventional methods.
 
 
-![](/images/sc2023.png)
+![](/images/sc2023.jpg)
 
