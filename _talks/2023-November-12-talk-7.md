@@ -21,6 +21,5 @@ throughput and demonstrates up to 2.3 times the I/O operations per second compar
 to conventional methods.
 
 
-![](/images/sc2023/1.jpg)
-![](/images/sc2023/2.jpg)
-![](/images/sc2023/3.jpg)
+![](/images/sc2023.png)
+
