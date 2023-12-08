@@ -7,7 +7,7 @@ permalink: /contact/
 
 Please contact me at:
 
-* [Linkedin](https://www.linkedin.com/in/babar-khan-698b6679/)
+* [Linkedin](https://www.linkedin.com/in/babar-k-698b6679/)
 * [Xing](https://www.xing.com/profile/Babar_Khan8/cv)
 
 
