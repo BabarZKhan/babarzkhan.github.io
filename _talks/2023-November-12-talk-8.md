@@ -1,11 +1,11 @@
 ---
 title: "Emerging Heterogeneous Computing Architectures Every Software Engineer Should Know (Compilers and DSLs)"
 collection: talks
-type: "The International Conference for High Performance Computing, Networking, Storage, and Analysis (SC) 2023"
-permalink: https://sc23.supercomputing.org/
-venue: "This talk was given in-person at Super Computing (SC) 2023 conference in Denver, Colorado, USA, Nov, 2023"
-date: "13-November-2023"
-location: "Denver, Colorado, USA"
+type: "deRSE24 - Conference for Research Software Engineering in Germany 2024"
+permalink: https://events.hifis.net/event/994/
+venue: "This talk was given in-person at Research in Software Engineering Germany Chapter namely "deRSE" in Würzburg, Germany, on 6th March 2024"
+date: "6-March-2024"
+location: "Julius-Maximilians-Universität Würzburg, Germany"
 ---
 
 This talk was given in-person at Research in Software Engineering Germany Chapter namely "deRSE" in Würzburg, Germany 2024. Following is the abstract of the talk
@@ -17,5 +17,5 @@ will present an open-source tool that recently received the Best Paper Award at 
 
 
 
-![](/images/sc2023.jpg)
+![](/images/deRSE2024-khan.jpg)
 
