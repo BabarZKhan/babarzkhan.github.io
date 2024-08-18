@@ -1,5 +1,5 @@
 ---
-title: "Accelerating the HPC I/O for Low Latency and High Throughput with 16-nanometer FPGA-based Hardware Accelerators"
+title: "Emerging Heterogeneous Computing Architectures Every Software Engineer Should Know (Compilers and DSLs)"
 collection: talks
 type: "The International Conference for High Performance Computing, Networking, Storage, and Analysis (SC) 2023"
 permalink: https://sc23.supercomputing.org/
