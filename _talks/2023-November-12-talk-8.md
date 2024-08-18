@@ -17,5 +17,5 @@ will present an open-source tool that recently received the Best Paper Award at 
 
 
 
-![](/images/deRSE2024-khan.jpg)
+![](/images/deRSE2024khan.jpg)
 
