@@ -2,7 +2,7 @@
 title: "A Sneak Peek into Quantum Compilers and Embedded Systems"
 collection: talks
 type: "emBO++ 2024, Bochum, Germany"
-permalink: https://embo.io/speaker-2024/#babar
+permalink: https://events.hifis.net/event/994/
 venue: "This talk was given in-person at embO++ 2024 in Bochum, Germany, on 15th March 2024"
 date: "15-March-2024"
 location: "Bochum, Germany"
