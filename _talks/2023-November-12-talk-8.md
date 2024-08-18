@@ -1,7 +1,7 @@
 ---
 title: "Emerging Heterogeneous Computing Architectures Every Software Engineer Should Know (Compilers and DSLs)"
 collection: talks
-type: "The International Conference for High Performance Computing, Networking, Storage, and Analysis (SC) 2023"
+type: "deRSE24 - Conference for Research Software Engineering in Germany 2024"
 permalink: https://sc23.supercomputing.org/
 venue: "This talk was given in-person at Super Computing (SC) 2023 conference in Denver, Colorado, USA, Nov, 2023"
 date: "13-November-2023"
