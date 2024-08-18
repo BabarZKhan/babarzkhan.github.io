@@ -8,17 +8,13 @@ date: "13-November-2023"
 location: "Denver, Colorado, USA"
 ---
 
-The existing HPC I/O stack struggles with the growing demands of HPC scientific workloads. 
-To start with the latency bottleneck, there is a deeply layered kernel hierarchy to translate 
-HPC I/O requests to the actual storage operations. This layered architecture adds a significant 
-overhead along the entire I/O request path. Measurements have shown that it takes between 18,000 
-and 20,000 instructions to send and receive a single fundamental 4KB I/O request. Our novel 
-hardware/software framework, named DeLiBA, aims to bridge this gap by facilitating the 
-evelopment of software components within the HPC I/O stack in user space, rather than the 
-kernel space, and leverages a proven 16 nanometer (nm) FPGA framework to quickly deploy 
-the FPGA-based HPC I/O accelerators. Our initial results achieve a 10% increase in 
-throughput and demonstrates up to 2.3 times the I/O operations per second compared 
-to conventional methods.
+This talk was given in-person at Research in Software Engineering Germany Chapter namely "deRSE" in Würzburg, Germany 2024. Following is the abstract of the talk
+Software engineers communicate with hardware through a language known as an instruction set architecture (ISA). However, the conclusion of 
+Dennard scaling and Moore’s Law implies that complex heterogeneous ISAs are replacing this traditional ISA. In light of this, the expertise
+required to develop new compilers and create domain-specific languages will be crucial for future software engineers. Therefore, this talk will 
+address the challenges posed by emerging computing architectures and research related to abstracting the complex ISA. As a use case, the talk 
+will present an open-source tool that recently received the Best Paper Award at one of the leading computer architecture conferences.
+
 
 
 ![](/images/sc2023.jpg)
