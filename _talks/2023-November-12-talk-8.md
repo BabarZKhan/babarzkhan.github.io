@@ -3,7 +3,7 @@ title: "Emerging Heterogeneous Computing Architectures Every Software Engineer S
 collection: talks
 type: "deRSE24 - Conference for Research Software Engineering in Germany 2024"
 permalink: https://events.hifis.net/event/994/
-venue: "This talk was given in-person at Research in Software Engineering Germany Chapter namely "deRSE" in Wuerzburg, Germany, on 6th March 2024"
+venue: "This talk was given in-person at Research in Software Engineering Germany Chapter namely deRSE in Wuerzburg, Germany, on 6th March 2024"
 date: "13-November-2023"
 location: "Denver, Colorado, USA"
 ---
