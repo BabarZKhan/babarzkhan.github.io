@@ -19,5 +19,5 @@ will present an open-source tool that recently received the Best Paper Award at 
 
 ![](/images/deRSE2024khan.jpg)
 
-[Download abstracts](https://babarzkhan.github.io/files/2deRSE2024.pdf)
+[Download abstracts](https://babarzkhan.github.io/files/deRSE2024.pdf)
 
