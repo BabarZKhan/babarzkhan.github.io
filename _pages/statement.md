@@ -8,6 +8,7 @@ permalink: /statement/
 As a PhD candidate in computer science and someone who likes research in general, I consider following resources extremely useful to set the course of your research. Well, the famous "Last Lecture" by Randy Pausch goes one step further:
 
 - [Hamming, "You and Your Research" (June 6, 1995)](https://www.youtube.com/watch?v=a1zDuOPkMSw&ab_channel=securitylectures)
+- [How to write a great research paper](https://www.youtube.com/watch?v=KyiK8XJG9FQ)
 - [Systems Benchmarking Crimes](https://gernot-heiser.org/benchmarking-crimes.html)
 - [Graduate school: keys to success](https://www.youtube.com/watch?v=fqPSnjewkuA)
 - [How to Have a Bad Career a tlakb David Patterson at Google](https://www.youtube.com/watch?v=Rn1w4MRHIhc&ab_channel=TalksatGoogle)
