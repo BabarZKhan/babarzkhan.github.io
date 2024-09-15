@@ -5,7 +5,7 @@ sitemap: true
 permalink: /statement/
 ---
 
-As a PhD candidate in computer science, I consider following resources extremely useful to set the course of your research:
+As a PhD candidate in computer science and someone who likes research in general, I consider following resources extremely useful to set the course of your research. Well, the famous "Last Lecture" by Randy Pausch goes one step further:
 
 - [Hamming, "You and Your Research" (June 6, 1995)](https://www.youtube.com/watch?v=a1zDuOPkMSw&ab_channel=securitylectures)
 - [Systems Benchmarking Crimes](https://gernot-heiser.org/benchmarking-crimes.html)
@@ -17,6 +17,7 @@ As a PhD candidate in computer science, I consider following resources extremely
 - [Advice for research students](https://www.cs.jhu.edu/~jason/advice/)
 - [Tips about writing systems paper](http://www.linzhong.org/opinions/writing.html)
 - [How to read a paper](http://www.sigcomm.org/sites/default/files/ccr/papers/2007/July/1273445-1273458.pdf)
+- [Randy Pausch Last Lecture: Achieving Your Childhood Dreams](https://www.youtube.com/watch?v=ji5_MqicxSo)
 
 <script type="text/javascript">
   var GOOG_FIXURL_LANG = 'en';
