@@ -18,6 +18,7 @@ As a PhD candidate in computer science and someone who likes research in general
 - [Advice for research students](https://www.cs.jhu.edu/~jason/advice/)
 - [Tips about writing systems paper](http://www.linzhong.org/opinions/writing.html)
 - [How to read a paper](http://www.sigcomm.org/sites/default/files/ccr/papers/2007/July/1273445-1273458.pdf)
+- [Doing System research](https://www.cl.cam.ac.uk/research/srg/netos/eurosys11dw/keynote/StevenHand.pdf)
 - [Randy Pausch Last Lecture: Achieving Your Childhood Dreams](https://www.youtube.com/watch?v=ji5_MqicxSo)
 
 <script type="text/javascript">
