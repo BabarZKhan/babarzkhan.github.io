@@ -1,5 +1,5 @@
 ---
-title: "Speeding-up Hardware-Accelerated Distributed Storage Access by Tighter Linux Kernel Integration and Use of a Modern API"
+title: "Speeding-up Hardware-Accelerated Distributed Storage Access by Tighter Linux Kernel Integration and Use of a Modern API talk in Atlanta, USA"
 collection: talks
 type: "SC 2024, Atlanta, Georgia, USA"
 permalink: https://h2rc.cse.sc.edu/

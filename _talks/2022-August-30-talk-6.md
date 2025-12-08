@@ -1,5 +1,5 @@
 ---
-title: "DeLiBA: An Open-Source Hardware/Software Framework for the Development of Linux Block I/O Accelerators"
+title: "DeLiBA: An Open-Source Hardware/Software Framework for the Development of Linux Block I/O Accelerators talk in Belfast, UK"
 collection: talks
 type: "FPGA Design track track at 33rd International Conference on Field-Programmable Logic and Applications (FPL) 2022"
 permalink: https://2022.fpl.org/

@@ -1,5 +1,5 @@
 ---
-title: "Accelerating the HPC I/O for Low Latency and High Throughput with 16-nanometer FPGA-based Hardware Accelerators"
+title: "Accelerating the HPC I/O for Low Latency and High Throughput with 16-nanometer FPGA-based Hardware Accelerators talk in Denver, Colorado, USA"
 collection: talks
 type: "The International Conference for High Performance Computing, Networking, Storage, and Analysis (SC) 2023"
 permalink: https://sc23.supercomputing.org/

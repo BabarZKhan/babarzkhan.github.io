@@ -1,5 +1,5 @@
 ---
-title: "SMR and HAMR Advancing HDD Areal Density"
+title: "SMR and HAMR Advancing HDD Areal Density talk in Santa Clara, California, USA"
 collection: talks
 type: "SNIA SDC 2025, Santa Clara, California, USA"
 permalink: https://www.snia.org/sniadeveloper/session/19378

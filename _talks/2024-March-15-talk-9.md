@@ -1,5 +1,5 @@
 ---
-title: "A Sneak Peek into Quantum Compilers and Embedded Systems"
+title: "A Sneak Peek into Quantum Compilers and Embedded Systems talk in Bochum, Germany"
 collection: talks
 type: "emBO++ 2024, Bochum, Germany"
 permalink: https://embo.io/

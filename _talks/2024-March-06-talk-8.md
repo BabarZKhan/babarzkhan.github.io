@@ -1,5 +1,5 @@
 ---
-title: "Emerging Heterogeneous Computing Architectures Every Software Engineer Should Know (Compilers and DSLs)"
+title: "Emerging Heterogeneous Computing Architectures Every Software Engineer Should Know (Compilers and DSLs) talk in Wuerzburg, Germany"
 collection: talks
 type: "deRSE24 - Conference for Research Software Engineering in Germany 2024"
 permalink: https://events.hifis.net/event/994/
